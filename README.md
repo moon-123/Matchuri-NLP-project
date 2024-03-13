@@ -27,7 +27,7 @@
 [추리추리 마추리 ppt](https://github.com/moon-123/Matchuri-NLP-project/files/14343951/ppt.pdf)
 
 <img src="client/img/b_ico.png" alt="마추리 고수" style="width: 150px;">
-<img src="client/img/b_ico.png" alt="브릿튼 조수" style="width: 150px;">
+<img src="client/img/m_ico.png" alt="브릿튼 조수" style="width: 150px;">
 
 
 -----------------
